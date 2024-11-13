@@ -3,7 +3,8 @@
 ## Description
 
 This group of projects has for purpose to teach the basics of Object-Oriented Programming language C++ (Version 98).
-Unfortunately, sharing the exercices subjects is forbidden by the school, but you may still be able to find these on the internet (if you are clever).
+
+Unfortunately, sharing the exercices subjects is forbidden by the school, but you may still be able to find these on the internet :)
 
 ## Intructions for testing program
 
