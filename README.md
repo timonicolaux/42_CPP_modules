@@ -1,4 +1,4 @@
-![alt text](https://admissions.42lyon.fr/uploads/admissions/campus/logo_website/17/Logo_noir__1_.svg)
+![alt text](https://freeimage.host/i/2ulgAo7)
 
 ## Description
 
